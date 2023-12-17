@@ -1,5 +1,5 @@
 package src.absi.test
 
-def helloWorld() {
+def run() {
     echo "SharedLibrary, World! This is from the shared library."
 }
