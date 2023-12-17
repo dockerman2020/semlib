@@ -1,7 +1,5 @@
 package src.absi.test
 
-def HelloW() {
+static void HelloW() {
     echo "SharedLibrary, World! This is from the shared library."
 }
-
-return this
