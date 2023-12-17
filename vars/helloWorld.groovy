@@ -1,5 +1,8 @@
 package src.absi.test
 
-static void call() {
-    echo "SharedLibrary, World! This is from the shared library."
+class helloWorld {
+    static void call() {
+        echo "SharedLibrary, World! This is from the shared library."
+    }
 }
+
