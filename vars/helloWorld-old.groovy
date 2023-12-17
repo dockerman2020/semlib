@@ -1,7 +1,7 @@
 package src.absi.test
 
-class helloWorld {
-    static void call() {
+class testHelloWorld {
+    static void helloWorld() {
         echo "SharedLibrary, World! This is from the shared library."
     }
 }
